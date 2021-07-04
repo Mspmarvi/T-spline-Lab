@@ -1,4 +1,4 @@
-# T-Lab                                 created by Mohammad Sadeghi Pour (Email: Mspmarvi@gmail.com)
+# T-spline Lab                                 created by Mohammad Sadeghi Pour (Email: Mspmarvi@gmail.com)
 T-Spline surface constructor
 
 abilities: 
