@@ -24,7 +24,6 @@ there are explanation in code for every functions
 examples:
 
 
-
 ![image](https://user-images.githubusercontent.com/34415658/124384378-c479a680-dc85-11eb-82f3-e91fb1069291.png)
 
 
@@ -38,3 +37,8 @@ examples:
 
 
 ![image](https://user-images.githubusercontent.com/34415658/124386197-10304e00-dc8e-11eb-9d32-45356754ad75.png)
+
+
+![image](https://user-images.githubusercontent.com/34415658/124390081-e9c6de80-dc9e-11eb-930b-1b5e2c898bac.png)
+
+
