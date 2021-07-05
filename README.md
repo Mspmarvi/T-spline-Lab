@@ -1,5 +1,5 @@
 # T-spline Lab                                 created by Mohammad Sadeghi Pour (Email: Mspmarvi@gmail.com)
-T-Spline surface is an object oriented package to build and manupulate T-spline surfaces
+T-Spline surface is an object oriented package to build and manipulate T-spline surfaces
 
 abilities: 
   1-building T-spline surface
