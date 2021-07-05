@@ -32,18 +32,8 @@ there are explanation in code for every functions
 
 examples:
 
-![image](https://user-images.githubusercontent.com/34415658/124386176-04dd2280-dc8e-11eb-8f04-52e2fa764b4f.png)
-
-
-![image](https://user-images.githubusercontent.com/34415658/124386179-09094000-dc8e-11eb-961c-32e9ee69933d.png)
-
-
-![image](https://user-images.githubusercontent.com/34415658/124386188-0c9cc700-dc8e-11eb-9c30-466714480c55.png)
-
-
-![image](https://user-images.githubusercontent.com/34415658/124386197-10304e00-dc8e-11eb-9d32-45356754ad75.png)
-
-
+![image](https://user-images.githubusercontent.com/34415658/124386176-04dd2280-dc8e-11eb-8f04-52e2fa764b4f.png)![image](https://user-images.githubusercontent.com/34415658/124386179-09094000-dc8e-11eb-961c-32e9ee69933d.png)
+![image](https://user-images.githubusercontent.com/34415658/124386188-0c9cc700-dc8e-11eb-9c30-466714480c55.png)![image](https://user-images.githubusercontent.com/34415658/124386197-10304e00-dc8e-11eb-9d32-45356754ad75.png)
 ![image](https://user-images.githubusercontent.com/34415658/124390081-e9c6de80-dc9e-11eb-930b-1b5e2c898bac.png)
 
 
