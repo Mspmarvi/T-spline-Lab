@@ -1,5 +1,5 @@
 # T-spline Lab                                 created by Mohammad Sadeghi Pour (Email: Mspmarvi@gmail.com)
-T-Spline surface constructor is an objecet oriented package
+T-Spline surface constructor is an object oriented package
 
 abilities: 
   1-building T-spline surface
