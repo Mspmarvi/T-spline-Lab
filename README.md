@@ -1,5 +1,5 @@
 # T-spline Lab                                 created by Mohammad Sadeghi Pour (Email: Mspmarvi@gmail.com)
-T-Spline surface constructor is an object oriented package
+T-Spline surface is an object oriented package to build and manupulate T-spline surfaces
 
 abilities: 
   1-building T-spline surface
@@ -22,10 +22,6 @@ step 2: Name_of_surface = T_Surface(cp), and now you build a T-spline NURBS surf
 there are explanation in code for every functions
 
 examples:
-
-
-![image](https://user-images.githubusercontent.com/34415658/124384378-c479a680-dc85-11eb-82f3-e91fb1069291.png)
-
 
 ![image](https://user-images.githubusercontent.com/34415658/124386176-04dd2280-dc8e-11eb-8f04-52e2fa764b4f.png)
 
