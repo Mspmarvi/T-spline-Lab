@@ -1,21 +1,21 @@
 # T-spline Lab                                 created by Mohammad Sadeghi Pour (Email: Mspmarvi@gmail.com)
-T-Spline surface is an object oriented package to build and manipulate T-spline surfaces
+T-Spline Lab is an object oriented package to build and manipulate T-spline surfaces
 
 abilities 
 
-1-building T-spline surface
+1- building T-spline surface
 
-2-inserting contol points based on approach mentioned in "T-splines and T-NURCCs" 2003
+2- inserting contol points based on approach mentioned in "T-splines and T-NURCCs" 2003
 
-3-inserting contol points based on local refinement algorithm
+3- inserting contol points based on local refinement algorithm
 
-4-merging T-spline surfaces one by one with continuity C0, C1 and C2
+4- merging T-spline surfaces one by one with continuity C0, C1 and C2
 
-5-plotting the topology of control mesh
+5- plotting the topology of control mesh
 
-6-plotting the parametric view of control mesh
+6- plotting the parametric view of control mesh
 
-7-inserting a row or collumn of control points
+7- inserting a row or collumn of control points
 
 8- you can change manually every single objects of T-spline surface including control point properties, edge properties, uknot and vknot properties
 
@@ -25,10 +25,12 @@ abilities
 This code is to build a T-spline surfac eby MATLAB
 
 how to build a T-spline surface:
+
 step 1: build a 3 dimensional matrix with size (n+1)*(m+1)*4  control mesh named (cp if you want), the third dimension means (X,Y,Z,weight) coordinate
+
 step 2: Name_of_surface = T_Surface(cp), and now you build a T-spline NURBS surface in T-spine format
 
-there are explanation in code for every functions
+there is an explanation in code for each functions
 
 examples:
 
